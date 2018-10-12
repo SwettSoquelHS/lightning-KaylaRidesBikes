@@ -1,4 +1,4 @@
-
+PImage img;
 
 
 int startX;
